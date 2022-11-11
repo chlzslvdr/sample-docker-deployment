@@ -1,4 +1,4 @@
-# Sample NodeJS APP Setup
+# Sample Docker Deployment
 
 This is a Dummy Project deployed via Docker made with [Docker & Kubernetes: The Practical Guide [2023 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide).
 
