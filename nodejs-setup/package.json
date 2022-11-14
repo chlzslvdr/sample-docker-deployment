@@ -1,5 +1,5 @@
 {
-  "name": "sample-nodejs-app-setup",
+  "name": "sample-docker-deployment",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
